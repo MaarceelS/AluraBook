@@ -18,13 +18,13 @@ O site possui uma interface limpa, objetiva e bem estruturada, com foco em ofere
 
 ## 🎯 Funcionalidades
 
-- ✅ Layout completo com cabeçalho, conteúdo e rodapé
-- ✅ Design moderno e minimalista
-- ✅ Barra de navegação funcional
-- ✅ Seção de destaques e promoções
-- ✅ Cards com informações dos livros
-- ✅ Responsividade total — se adapta perfeitamente a celulares, tablets e desktops
-- ✅ Acesso rápido às seções da página
+-  Layout completo com cabeçalho, conteúdo e rodapé
+-  Design moderno e minimalista
+-  Barra de navegação funcional
+-  Seção de destaques e promoções
+-  Cards com informações dos livros
+-  Responsividade total — se adapta perfeitamente a celulares, tablets e desktops
+-  Acesso rápido às seções da página
 
 ## 🎨 Layout e Design
 
